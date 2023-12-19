@@ -5,6 +5,8 @@ This is the official implementation for our NeurIPS 2023 paper "Topological RANS
 
 
 ## Try the topological RANSAC
+git clone https://github.com/anguoyuan/Topological-RANSAC.git
+
 pip install opencv-python
 
 pip install scipy
@@ -12,5 +14,7 @@ pip install scipy
 pip install shapely
 
 python test.py
+
+You can change the image paths in test.py to verify your own image pairs.
 
 
