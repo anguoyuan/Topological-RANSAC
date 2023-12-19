@@ -1,7 +1,7 @@
 # Topological-RANSAC
 This is the official implementation for our NeurIPS 2023 paper "Topological RANSAC for Instance Verification and Retrieval without Fine-tuning". 
 
-![Description of the figure](https://link-to-your-image.jpg)
+![poster]([https://github.com/anguoyuan/Topological-RANSAC/blob/main/poster.jpg])
 
 
 ## Try the topological RANSAC
